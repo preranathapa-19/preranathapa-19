@@ -5,13 +5,13 @@
 Email Me 👉 ✉️ [**preranamagar19@gmail.com**](mailto:preranamagar19@gmail.com) For Collaboration/Projects or Anything Else. 😊
 
 * 🔭 **I’m currently working on:** Web Development Projects
-* 🌱 **I’m currently learning:** JavaScript, React, Tailwind CSS
+* * 🎓 **Currently studying:** Bachelor of Information Technology (BIT)
 * 👯 **I’m looking to collaborate on:** Web Development & Open Source Projects
 * 🤔 **I’m looking for help with:** Improving my Development Skills
 * 💬 **Ask me about:** HTML, CSS, JavaScript, Tailwind CSS
-* 📫 **How to reach me:** [**preranamagar19@gmail.com**](mailto:preranamagar19@gmail.com)
-* 🎓 **Currently studying:** Bachelor of Information Technology (BIT)
 * ⚡ **Fun fact:** I Love Creating, Learning & Exploring New Technology! 💻✨
+<!--* 📫 **How to reach me:** [**preranamagar19@gmail.com**](mailto:preranamagar19@gmail.com) * 🌱 **I’m currently learning:** JavaScript, React
+-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pika_b0oo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prerana-thapamagar) 
