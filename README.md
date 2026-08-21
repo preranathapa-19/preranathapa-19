@@ -5,7 +5,7 @@
 Email Me 👉 ✉️ [**preranamagar19@gmail.com**](mailto:preranamagar19@gmail.com) For Collaboration/Projects or Anything Else. 😊
 
 * 🔭 **I’m currently working on:** Web Development Projects
-* * 🎓 **Currently studying:** Bachelor of Information Technology (BIT)
+* 🎓 **Currently studying:** Bachelor of Information Technology (BIT)
 * 👯 **I’m looking to collaborate on:** Web Development & Open Source Projects
 * 🤔 **I’m looking for help with:** Improving my Development Skills
 * 💬 **Ask me about:** HTML, CSS, JavaScript, Tailwind CSS
