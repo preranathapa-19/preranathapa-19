@@ -31,6 +31,9 @@ Email Me 👉 ✉️ [**preranamagar19@gmail.com**](mailto:preranamagar19@gmail.
 
 
 # 📊 GitHub Stats:
+<td align="center" width="33%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=preranathapa-19&layout=donut&hide_border=true&langs_count=6" />
+</td>
 <!--![](https://github-readme-stats.shion.dev/api?username=preranathapa-19&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true) --><br/>
 ![](https://streak-stats.demolab.com/?user=preranathapa-19&theme=blue_navy&hide_border=false)<br/> 
 <!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=preranathapa-19&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
@@ -41,14 +44,6 @@ Email Me 👉 ✉️ [**preranamagar19@gmail.com**](mailto:preranamagar19@gmail.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=preranathapa-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-
-
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preranathapa-19&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 
 
