@@ -1,6 +1,6 @@
   # Hi 👋, I'm Prerana Thapa Magar
 
-BIT Student || Aspiring Frontend Developer || Tech Enthusiast from Nepal 🇳🇵**
+BIT Student || Aspiring Frontend Developer || Tech Enthusiast from Nepal
 
 
 
